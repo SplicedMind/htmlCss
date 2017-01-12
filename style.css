@@ -1,0 +1,46 @@
+
+h1 {
+    color: blue;
+    margin-left: 20px;    
+}
+#header
+{
+    background-color: Khaki;
+    text-align: center;    
+    height: 110px;
+    margin: auto;
+    border: 1px solid red;
+}
+header
+{
+	width: 1200px;
+	height: 110px;
+    color: purple;
+	margin: auto;
+}
+
+.body{
+ 	width:100%;
+    text-align:left;
+    background-color:; 
+    height: 700px;
+}
+.left {
+    float:left;
+    width:200px;
+    background: Beige;
+    height: inherit;
+    background-color: ;
+    border: 1px solid #73AD21;
+    padding: 10px;
+}
+
+.center {
+    display: inline-block;
+    margin:0 auto;
+    width:620px;
+    height: inherit;
+    background-color: Gainsboro;
+	border: 1px solid green;
+	padding: 10px
+}
